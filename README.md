@@ -2,6 +2,21 @@
 
 The Wall Street Journal has done an excellent service by downloading the individual email files from the State Department's listing and making them [accessible via their own search app](http://graphics.wsj.com/hillary-clinton-email-documents/). Even better, they've packaged the emails in convenient zip files.
 
+Why do you need your own copies of the emails when the[ WSJ's application works so well](http://graphics.wsj.com/hillary-clinton-email-documents/)? It's a great tool, but it's still not as flexible as using regular expressions, which allow us to search by _pattern_, including:
+
+- Look for all instances in which a `$` is followed by numbers (to quickly locate places where money is mentioned)
+- Look for all instances of...anything...in which the email does _not_ include an article from the New York Times/Washington Post/WSJ/etc.
+- Extract the "From:" field of each email to quickly find out who the most frequent senders were.
+
+The algorithms in this repo are pretty general and can be replicated with any number of tools or languages. But to get my example code going, you should have:
+
+- Python 3.5 (I use [Anaconda](https://www.continuum.io/downloads))
+- [Requests](http://docs.python-requests.org/en/master/) for downloading the files (comes with Anaconda)
+- [lxml](http://lxml.de/lxmlhtml.html) for simple HTML parsing
+- [The PDF Poppler library](https://poppler.freedesktop.org/) so that we can use __pdftotext__ to extract the raw text from each PDF.
+
+To search by regular expression, you can obviously use Python's library. But I like doing things via the command-line if possible, and [__ag__ (the Silver Searcher)](https://github.com/ggreer/the_silver_searcher) is my favorite version of __grep-like__ tools.
+
 
 # Getting your own copies of the Clinton emails
 
