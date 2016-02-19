@@ -1,0 +1,81 @@
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05772062 Date: 08/31/2015
+
+
+
+
+                                                                                                  RELEASE IN FULL
+
+
+From:                              postmaster@state.gov
+Sent                               Wednesday, September 8, 2010 5:55 AM
+To:
+Subject:                           Undeliverable: Speech
+Attachments:                       details.txt; Speech (1.11 KB); details.txt; Speech (1.11 KB)
+
+
+
+Delivery has failed to these recipients or distribution lists:
+
+schwerind@state.gov
+The recipient's e-mail address was not found in the recipient's e-mail system. Microsoft Exchange will not try to redeliver
+this message for you. Please check the e-mail address and try resending this message, or provide the following diagnostic
+text to your system administrator.
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: MSWASHDCIB01.washdc.state.sbu
+
+schwerind@state.gov
+#< #5.1.1> #SMTP#
+
+Original message headers:
+
+Received: from vance2.state.gov ([10.4.16.249]) by
+ MSWASHDCIB01.washdc.state.sbu with Microsoft SMTPSVC(6.0.3790.3959);        Wed, 8
+ Sep 2010 05:55:05 -0400
+Received: from mail.clintonemail.com (ool-18bbeabb.static.optonline.net [24.187.234.187])
+        by vance2.state.gov with ESMTP id o889Z0Q1024421
+        (version=TLSv1/SSLv3 cipher=AES128-SHA bits=128 verify=CAFAIL);
+        Wed, 8 Sep 2010 05:35:25 -0400
+Received: from CLNTINET08.clinton.local ([fe80::d0bb:23d3:f75e:4993]) by
+ CLNTINET08.clinton.local ([fe80::d0bb:23d3:f75e:4993%10]) with mapi; Wed, 8
+ Sep 2010 05:55:05 -0400
+From: H <HDR22@c1intonemai1.com>
+To: "'schwerind@state.gov'" <schwerind@state.gov>, "'sullivanjj@state.gov'"
+        <sullivanjj@state.gov>
+CC: Huma Abedin <Huma@clintonemail.com>, "'muscatinel@state.gov'"
+        <muscatinel@state.gov>
+Date: Wed, 8 Sep 2010 05:55:03 -0400
+Subject: Speech
+Thread-Topic: Speech
+Thread-Index: ActP0+jydLSPOwd0Ru6hwQ3yxG1+eQ==
+Message-ID: <786762D781A7FF4FAC90608925404488038F29158D@CLNTINET08.clinton.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="utf-8"
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05772062 Date: 08/31/2015
+    UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05772062 Date: 08/31/2015
+
+
+
+
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+Return-Path: HDR22@clintonemail.com
+X-OriginalArrivalTime: 08 Sep 2010 09:55:05.0942 (UTC) FILETIME=[EA19DF60:01CB4F3B)
+X-TM-AS-Product-Ver: SMEX-8.0.0.4160-6.500.1024-17612.006
+X-TM-AS-Result: No-0.652200-5.000000-31
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+
+
+
+
+    UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05772062 Date: 08/31/2015
+

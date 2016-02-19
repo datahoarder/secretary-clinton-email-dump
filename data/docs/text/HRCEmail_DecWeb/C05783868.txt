@@ -1,0 +1,77 @@
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783868 Date: 12/31/2015
+
+
+
+
+                                                                                                    RELEASE IN FULL
+
+
+
+From:                              postmaster@state.gov
+Sent:                              Friday, November 18, 2011 9:36 PM
+To:
+Subject:                           Undeliverable: Schedule
+Attachments:                       details.txt; Schedule (1.05 KB)
+
+
+
+Delivery has failed to these recipients or distribution lists:
+
+adlerce2Ostate.gov
+The recipient's e-mail address was not found in the recipient's e-mail system. Microsoft Exchange will not try to redeliver
+this message for you. Please check the e-mail address and try resending this message, or provide the following diagnostic
+text to your system administrator.
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: MSWASHDCIB03.washdc.state.sbu
+
+adlerce2@state.gov
+#< #5.1.1> #SMTP#
+
+Original message headers:
+
+Received: from vance2.state.gov ([10.4.16.249]) by
+ MSWASHDCIB03.washdc.state.sbu with Microsoft SMTPSVC(6.0.3790.3959);         Fri, 18
+ Nov 2011 21:35:47 -0500
+Received: from mail.clintonemail.com (ool-18bbeabb.static.optonline.net
+ [24.187.234.187])     by vance2.state.gov with ESMTP id
+ pAJ2QdjX022439-pAJ2QdjZ022439 (version=TLSvl cipher=AES128-SHA bits=128
+ verify=CAFAIL);        Fri, 18 Nov 2011 21:26:40 -0500
+Received: from CLNTINET08.clinton.local ([fe80::3c3c:8a15:4320:37a9]) by
+ CLNTINET08.clinton.local ([fe80::3c3c:8a15:4320:37a9%11]) with mapi; Fri, 18
+ Nov 2011 21:35:45 -0500
+From: H <HDR22@clintonemail.com>
+To: "'ValmoroLj@state.gov'" <ValmoroL]@state.gov>, "'adlerce2@state.gov'"
+       •<adlerce2@state.gov>, "'hanleymr@state.gov'" <hanleymr@state.gov>
+Date: Fri, 18 Nov 2011 21:35:44 -0500
+Subject: Schedule
+Thread-Topic: Schedule
+Thread-Index: AcymY/A0VP17eUv4SaW7AsefG/eduQ==
+Message-ID: <786762D781A7FF4FAC9060892940448822791D05F1@CLNTINET08.clinton.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783868 Date: 12/31/2015
+    UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783868 Date: 12/31/2015
+
+
+
+
+X-FEAS-SYSTEM-WL: hdr22@clintonemail.com
+Return-Path: HDR22@clintonemall.com
+X-OriginalArrivalTime: 19 Nov 2011 02:35:47.0414 (UTC) FILETIME=[F1B66F60:01CCA663]
+
+
+
+
+    UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783868 Date: 12/31/2015
+

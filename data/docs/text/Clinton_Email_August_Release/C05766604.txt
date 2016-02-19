@@ -1,0 +1,118 @@
+          UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766604 Date: 08/31/2015
+
+
+
+                                                                                         RELEASE IN
+                                                                                         PART B6
+
+
+
+    From:                             Mills, Cheryl D <MillsCD@state.gov>
+    Sent:                             Saturday, January 30, 2010 8:22 AM
+    To:
+    Subject:                          Fw: 4636 and state getting a lot of good press -- now in the Guardian
+
+
+    Fyi
+
+
+
+    From: Klevorick, Caitlin B
+    To: Mills, Cheryl D
+    Sent: Sat Jan 30 05:37:21 2010
+    Subject: Fw: 4636 and state getting a lot of good press -- now in the Guardian
+
+
+
+
+    From: Katie Jacobs Stanton
+    To: Dowd, Katie W; Ross, Alec J; Curbs, Meghann A; Adler, Caroline E; Forgerson, Luke A (PACE); Klevorick, Caitlin B
+    Cc: Stanton, Katie
+    Sent: Fri Jan 29 23:21:03 2010
+    Subject: 4636 and state getting a lot of good press -- now in the Guardian
+
+    http://www.guardian.co.uldnews/datab1og/2010/jan/29/haiti-crowdsourcing
+
+    Even has a screen shot of dipnote!
+
+
+
+    How to Friday: How to build a crisis reporting system
+    Developers, technologists and volunteers around the world came together to build a crisis reporting
+    for Haiti. Here's how they did it
+•   Comments (1)
+•   Buzz up!
+    Digg it
+
+
+
+
+                                   The Ushahidi crowdsourced crisis reporting in Haiti
+    Technologists around the world came together and rapidly built a system for Haitians to request help in the wake of
+    devastating earthquake. Using the internet to organise themselves, developers, communications experts and
+    humanitarian organisations created a system to gather emergency requests using text messages that won praise
+    from emergency officials and support from the US State Department.
+
+    Hours after the quake, Josh Nesbit, who heads up a non-profit using mobile phones to help deliver medical care in
+    Africa, heads sent this tweet:
+
+          Reaching out to ©FrontlineSMS users in #Haiti with hopes of establishing local SMS gateway for
+          http://haiti.ushahidi.com
+          UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766604 Date: 08/31/2015
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766604 Date: 08/31/2015
+
+
+
+
+Ushahidi is a crowd-sourced crisis reporting platform that was developed in Kenya to gather reports of violence in
+the post-election unrest in 2008. Ushahidi, which means "testimony" in Swahili, has been used to gatherreports
+about the swine flu outbreak, monitor elections in India and Mexico and to collect crime reports in Atlanta.
+The platform can handle reports from a number of sources, via email, the web or via SMS, making it flexible and
+very useful even in areas without intemet access. Ushahidi worked with teams in Kenya, Uganda and teams in
+Boston and Washington DC in the United States.
+Using Twitter, Josh got in contact with Jean-Marc Castera who was heading to the DigiCel command center,
+according to Erik Hersman at Ushahidi. Working with the US State Department they were able to get the 4636 SMS
+shortcode that had been used for weather information in Haiti. They launched the SMS-based emergency
+information system with the support of the Thomson Reuters Foundation and technology disaster relief organisation
+inSTEDD five da s after the suake.
+
+
+
+
+Ten radio stations still operating in Haiti helped spread the word about the emergency shortcode. They also quickly
+put up posters, and the US Department of State helped publicise it, announcing it via their official Twitter account
+and elsewhere.
+They worked with 10,000 Haitian volunteers to help translate the messages and other volunteers helped to structure
+"mountains of data" coming into the system, Hersman wrote. The volunteers of Mission 4636 posted this on the
+Ushahidi blog:
+      We are the volunteer translators of Mission 4636. We span six time zones and seven languages on any
+      given night. We are students, medics, stay at home mothers, archivists, firefighters, and software
+      developers. We are the quiet force behind Ushahidi Haiti & we give a voice to the lost.
+San Francisco startups, Crowdflower and Samasource, which specialise in managing tasks for crowdsourcing,
+helped organise the volunteer efforts, according to Kim-Mai Cutler at VentureBeat. She also reported that Katie
+Stanton, an early Google employee who now works in the Office of Innovation at the State Department, "helped get
+emergency responders from the U.S. Coast Guard and Red Cross involved".
+Since is started, Ushahidi has received nearly 100,000 reports concerning Haiti, and organisers are working to
+create a system, Swift River, to help filter those reports so that the most urgent ones get attention quickly.
+One thing that is impressive about this effort is how distributed, collaborated and organised it is, and they have
+blogged about how theykept this volunteer project focused. CrisisCamps to help with these projects sprung up in
+cities around the world, including here in London.
+
+A decade of crowdsourced crisis projects
+
+Developers also created an application to help collect information on missing people in Haiti. After creating several
+applications, they came to a decision to focus their efforts on a single app hosted at Google.
+
+The Haiti Earthquake people finding application is actually the evolution of similar projects that started appearing
+after the 11 September 2001 attacks in the US and rapidly developed after the Asian Tsunami in late
+2004, Hurricane Katrina PeopleFinder project in 2005, the and the earthquake in Kashmir in 2005. The projects
+gave rise to an XML format called the People Finder Interchange Format.
+Every time a disaster like this happens, the response has gotten more sophisticated and better organised. The
+response in Haiti by this volunteer army has been deeply impressive, and they have built up the expertise so that
+when the next disaster happens, they'll have new tools to help speed aid to victims in need.
+
+
+
+
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766604 Date: 08/31/2015
+

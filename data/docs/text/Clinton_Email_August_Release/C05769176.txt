@@ -1,0 +1,79 @@
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769176 Date: 08/31/2015
+
+
+
+
+                                                                                  RELEASE IN FULL
+
+
+
+From:                              postmaster@state.gov
+Sent:                              Wednesday, January 20, 2010 10:30 PM
+To:
+Subject:                           Undeliverable: Speech ETA?
+Attachments:                       details.txt; Re: Speech ETA? (2.50 KB)
+
+
+
+Delivery has failed to these recipients or distribution lists:
+
+tillemnantsOstate.gov
+The recipient's e-mail address was not found in the recipient's e-mail system. Microsoft Exchange will not try to redeliver
+this message for you. Please check the e-mail address and try resending this message, or provide the following diagnostic
+text to your system administrator.
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: MSWASHDCIB01.washdc.state.sbu
+
+tillemnants@state.gov
+#< #5.1.1> #SMTP#
+
+Original message headers:
+
+Received: from vance3.state.gov ([10.4.16.249]) by
+ MSWASHDCIB01.washdc.state.sbu with Microsoft SMTPSVC(6.0.3790.3959);         Wed, 20
+ Jan 2010 22:30:18 -0500
+Received: from mail.c1intonemail.com (ool-18bbeabb.static.optonline.net [24.187.234.187])
+        by vance3.state.gov with ESMTP id o0L30mHNO11693;
+        Wed, 20 Jan 2010 22:00:48 -0500
+Received: from CLNTINET08.clinton.local ([fe80::dObb:23d3:f75e:4993]) by
+ CLNTINET08.clinton.local ([fe80::d0bb:23d3:f75e:4993%10]) with mapi; Wed, 20
+ Jan 2010 22:30:16 -0500
+From: H <HDR22@clintonemai1.com>
+To: "sullivanjj@state.gov" <sullivanjj@state.gov>, "tillemnants@state.gov "
+        <tillemnants@state.gov>
+Date: Wed, 20 Jan 2010 22:30:15 -0500
+Subject: Re: Speech ETA?
+Thread-Topic: Speech ETA?
+Thread-Index: AcgaQKnfjAE7BOKaQrSapf9ApC4jcQAABOQQAAI50nk=
+Message-ID: <786762D781A7FF4FAC9060892B404488036430B867@CLNTINET08.clinton.local>
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+Return-Path: HDR22@clintonemail.com
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769176 Date: 08/31/2015
+    UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769176 Date: 08/31/2015
+
+
+
+
+X-OriginalArrivalTime: 21 Jan 2010 03:30:18.0482 (UTC) FILETIME=[0DE48D20:01CA9A4A]
+X-TM-AS-Product-Ver: SMEX-8.0.0.4125-6.000.1038-17134.000
+X-TM-AS-Result: No--I2.277300-5.000000-31
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+
+
+
+
+    UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769176 Date: 08/31/2015
+

@@ -1,0 +1,148 @@
+     UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766563 Date: 08/31/2015
+
+
+
+                                                                           RELEASE IN
+                                                                           PART B6
+
+
+
+
+From:                        Mills, Cheryl D <MillsCD©state.gov>
+Sent:                        Friday, January 29, 2010 1:27 PM
+To:
+Subject                      FW: Haiti: More great work by Katie Stanton
+
+
+
+See highlight
+
+     Original Message
+From: Alec Ross [mailto:
+Sent: Friday, January 29, 2010 12:57 PM
+To: Mills, Cheryl D
+Cc: Toiv, Nora F
+Subject: Re: Haiti: More great work by Katie Stanton
+
+Here is text
+Haiti's earthquake devastated not only lives, but whatever emergency
+services the barely functioning government had to offer. However, in
+less than seven days, a makeshift version of 911 sprung to life.
+
+It's a striking story of how a few tech-savvy social entrepreneurs,
+receptive ears in the U.S. government and hundreds of Haitian
+Creole-speaking strangers crowdsourced from around the world were able
+to help people on the ground get food or medical attention.
+
+Hours after the earthquake struck Port au Prince, 23-year-old Josh
+Nesbit (pictured right), who heads a non-profit delivering health care
+in Sub-Saharan Africa through mobile phones, thought that an SMS
+gateway would be critical in Haiti.
+
+He sent a tweet out asking for help. A Cameroonian managing a startup
+incubator in Africa, Jean Francis Ahanda, responded mentioning that a
+contact, Jean-Marc Castera, was headed to the command center of the
+Caribbean's largest wireless carrier Digicel that day.
+
+Within three days, they had co-opted a shortcode, 4636, that had been
+used for weather information in Haiti. They rushed to get several
+other partners like Ushahidi, which provides an open-source platform
+for tracking crisis communications, and Google on board. A non-profit
+that specializes in using technology for disaster relief, Instedd,
+built an emergency information system using the shortcode. On a very
+late Saturday night, a cobbled-together team of a half-dozen
+organizations or so launched '4636' as an emergency number.
+
+They started publicizing it on the ground in Haiti through radio
+stations. Haitians could text the number with messages about injuries,
+people trapped under rubble or reports of missing people.
+
+Some of them are desperate:
+
+"My name is J         my brother is working in Unicef and I live in
+C 11 A      I have 2 people that is still alive under the building
+still ! Send Help!"
+Two San Francisco-based startups, Crowdf lower and Samasource, came
+
+     UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766563 Date: 08/31/2015
+       UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766563 Date: 08/31/2015
+
+
+
+
+on-board to help find volunteers to translate and categorize the
+messages. Both are in the "Mechanical Turk" space — they farm out
+simple, rote tasks that computing can't solve to thousands of people
+at a time. (Crowdflower is a venture-backed startup while Samasource
+is a non-profit that gives this work to refugees and people in the
+poorest parts of the world, including Haiti.)
+
+Crowdflower and Samasource asked for people around the world fluent in
+Haitian-Creole to translate and prioritize emergency texts coming out
+of Haiti. So far, a few hundred have signed up. (See the map below.)
+Nesbit admits the privacy situation isn't perfect, but the project
+helps people in dire need.
+
+
+Another contact, Katie Stanton, who was an early Google employee and
+is now the Director of Citizen Participation at the State Department,
+helped get emergency responders from the U.S. Coast Guard and Red
+Cross involved.
+
+Now if a Haitian texts 4636, a stranger on the other side of the world
+will translate it and other volunteers (pictured right) will send it
+to the right responder whether it's an urgent medical need or a
+general request for more food and water. Volume has risen to about
+2,500 messages a day since the Jan. 16 launch and messages are
+translated and forwarded usually in between 2 and 10 minutes. They've
+filtered through more than 20,000 texts so far.
+
+In some cases, it's been life-saving. Earlier this week, a Haitian
+woman went into labor and started bleeding out. She texted 4636,
+calling for help. A translator and stranger pinpointed her location on
+a map, giving the U.S. Coast Guard her coordinates. They were able to
+reach her in time to help her deliver the baby.
+
+The non-profits behind '4636' are now trying to scale it up as the
+number of messages rises 10 percent a day. They're also trying to make
+it more sustainable with larger pools of consistent volunteers.
+
+"Honestly, this is rare to see groups like the State Department,
+Ushahidi and Instedd all working together," Nesbit said. "I hope it
+doesn't take another catastrophe to see this type of collaboration
+again. The bright spot in all of this is seeing the tech community
+take ownership."
+
+True, but the more intriguing part of the story may be that this all
+started with a simple tweet. In fact, Nesbit never set foot in Haiti.
+
+
+
+On Fri, Jan 29, 2010 at 12:52 PM, Mills, Cheryl D <MillsCD@state.gov> wrote:
+> Can't open
+
+
+
+>   From: Alec Ross [mailto:
+>   Sent: Friday, January 29, 2010 10:29 AM
+>   To: Mills, Cheryl D
+>   Cc: Toiv, Nora F
+>   Subject: Haiti: More great work by Katie Stanton
+       UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766563 Date: 08/31/2015
+     UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766563 Date: 08/31/2015
+
+
+
+
+>
+>
+>
+> Her very strong start continues:
+>
+> http://venturebeat.com/2010/01/28/team-4636/
+
+
+
+
+     UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05766563 Date: 08/31/2015
+

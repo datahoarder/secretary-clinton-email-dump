@@ -1,0 +1,78 @@
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767060 Date: 08/31/2015
+
+
+
+                                                                                                      RELEASE IN FULL
+
+
+
+
+From:                              postmaster@state.gov
+Sent:                              Sunday, January 3, 2010 6:37 PM
+To:
+Subject:                           Undeliverable: Happy New year! And some questions
+Attachments:                       details.txt; Happy New year! And some questions (1.61 KB)
+
+
+
+Delivery has failed to these recipients or distribution lists:
+
+mhcalejaftstate.gov
+The recipient's e-mail address was not found in the recipient's e-mail system. Microsoft Exchange will not try to redeliver
+this message for you. Please check the e-mail address and try resending this message, or provide the following diagnostic
+text to your system administrator.
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: MSWASHDCIB03.washdc.state.sbu
+
+mhcaleja@state.gov
+it< #5.1.1> #SMTP#
+
+Original message headers:
+
+Received: from vance2.state.gov ([10.4.16.238]) by
+ MSWASHDCIB03.washdc.state.sbu with Microsoft SMTPSVC(6.0.3790,3959);         Sun, 3
+ Jan 2010 18:36:58 -0500
+Received: from mail.clintonemail.com (ool-i8bbeabb.static.opton1ine.net [24.187.234.187])
+        by vance2.state.gov with ESMTP id o03NBEEh019168
+        for (mhcaleja@state.gov>; Sun, 3 Jan 2010 18:11:14 -0500
+Received: from CLNTINET08.clinton.local ([fe80::dObb:23d3:f75e:4993]) by
+ CLNTINET08.clinton.local ([fe80::d0bb:23d3:f75e:4993t10]) with mapi; Sun, 3
+ Jan 2010 18:36:56 -0500
+From: H <HDR22@c1intonemai1.com>
+To: "rmhca.leja@state.goy" <mhcaleja@state.gov>
+Date: Sun, 3 Jan 2010 18:36:55 -0500
+Subject: Happy New year! And some questions
+Thread-Topic: Happy New year! And some questions
+Thread-Index: AcqMzaK5JZr82YqZThOvt/20iKdYmQ==
+Message-ID: <786762D781A7FF4FAC9060892B4044880360B6E00F@CLNTINET08.clinton.local:
+Accept-Language: en-US
+Content-Language: en-US
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+acceptlanguage: en-US
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: base64
+MIME-Version: 1.0
+Return-Path: HDR22@clintonemail.com
+X-OriginalArrivalTime: 03 Jan 2010 23:36:58.0539 (UTC) FILETIME=[A44107B0:01CA8CCD]
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767060 Date: 08/31/2015
+    UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767060 Date: 08/31/2015
+
+
+
+
+X-TM-AS-Product-Ver: SMEX-8.0.0.4125-6.000.1038-17102.005
+X-TM-AS-Result: Yes-8.890100-5.000000-31
+X-TM-AS-User-Approved-Sender: No
+X-TM-AS-User-Blocked-Sender: No
+
+
+
+
+    UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767060 Date: 08/31/2015
+

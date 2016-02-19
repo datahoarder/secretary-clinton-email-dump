@@ -1,0 +1,165 @@
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783655 Date: 10/30/2015
+
+
+
+
+                                                                                                RELEASE IN PART B6
+
+
+
+From:                                Mills, Cheryl D <MillsCD@state.gov>
+Sent:                                Thursday, November 17, 2011 11:43 AM
+To:
+Subject:                             FW: CSM piece on iCow
+
+
+
+See below
+
+
+From: Ross, Alec 3
+Sent: Thursday, November 17, 2011 10:55 AM
+To: Mills, Cheryl D; 'Caitlin Klevorick
+Subject: FW: CSM piece on iCow
+
+Thought you'd enjoy. Winner of our AppsForAfrica competition
+
+
+From: Dowd, Katie W
+Sent: Thursday, November 17, 2011 10:52 AM
+To: Innovation
+Subject: CSM piece on iCow
+
+Great shout out piece for iCOW, winner of the Apps Competition!
+
+http://www.csmonitor.comMorld/Africa/2011/1111/iCow-Kenyans-now-manage-their-herds-via-mobile-phone
+
+The Christian Science Monitor - CSMonitor.com
+
+
+
+iCow: Kenyans now manage their herds via mobile
+phone
+The iCow mobile-phone app, invented by an organic farmer outside of Nairobi, Kenya, is just one example of the country's growing
+high-tech entrepreneurial culture.
+
+
+
+
+Mobileapp developer Sammy Njoroge works at iHub, a creative space for technology incubation in Nairobi, Kenya.
+(Brendan Bannon)
+
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783655 Date: 10/30/2015
+       UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783655 Date: 10/30/2015
+
+
+
+
+By Scott Baldauf, Staff writer
+posted November 11, 2011 at 10:21 am EST
+
+Nairobi, Kenya
+
+As an organic farmer outside of Nairobi, Su Kahumbu could see the challenge that her cattle-herding neighbors had in handling the
+expenses of their most precious assets, the female cow.
+
+If the cattle owner didn't pay attention, he might miss the very brief window of time when his cow went into heat, missing a chance at
+expanding his herd. Some cattle men wasted their money on the wrong kind of feed, others were selling their cattle off at below the
+market rate, and yet all of them had the tool in their hands to get information: a cell phone.
+
+So, Ms. Kahumbu came up with iCow, a mobile-phone application that allows herders to register each individual cow, and to receive
+individualized text messages on their mobile phones, including advice for veterinary care and feeding schedules, a database of experts,
+and updated market rates on cattle prices. It's an example of how high technology can help out even in the low-tech business of
+agriculture, in which 80 percent of Kenyans make a living.
+
+IN PICTURES: Monitor photographers in Africa
+
+"Eighty percent of Kenyans are farmers, and by that I mean people who make a living off of the land, and 80 percent of the food
+people eat comes from people who sell in the rural marketplace," says Kahumbu. "So, even though I'm not an expert in technology or
+development, I thought, why not take the gestation calendar of a cow and send it to agriculturalists, and that can help them increase
+their productivity, and also increase their savings."
+
+Kahumbu's iCow may not be the latest sensation on Wall Street, but experts say it is just the latest example of an innovative high-tech
+entrepreneurial culture that has started to take hold in Kenya. Following in the footsteps of major commercial successes such as
+MPESA — a mobile-phone banking application that now rivals Western Union — other Kenyan software developers are setting up shop
+in Nairobi, creating high-tech solutions for an African market that has long been ignored; universities and private companies are
+setting up labs and business incubators; and government officials are plotting strategies to transform Kenya into a high-tech hub for
+the continent.
+
+"We have a large number of Kenyans doing software development, and because of successes like MPESA, a lot of them are
+developing mobile applications," says Bitange Ndemo, the permanent secretary for Kenya's Ministry of Information and
+Communication Technology. "So what we are doing on the government side, we are developing incubators so that an idea can be
+developed, and we can provide an environment where someone can taken their idea to market. For every 100 startups, maybe one will
+succeed, but that one company may change the lives of a lot of people."
+
+
+A techie paradise
+Walk through the iHub, Nairobi's most famous high-tech incubator, and you'll feel the buzz of a collaborative competition. Software
+developers in faded jeans sidle up to website designers to ask for advice on how to make their mobile-phone applications more user-
+friendly, or to another coder for tips on how to work the bugs out of their system. When a developer feels ready to take his product to
+market, he or she can receive advice on how to create a business plan, or how to attract investors.
+
+IHub is a techie paradise, filled with the kinds of young smart African men and women that tech-blogger Curt Hopkins likes to call
+Afro-Nerd Superstars. In one corner of iHub, a hissing machine makes cappuccinos. A gaggle of young men crowd around a foosball
+table, letting off steam, while a scattering of software developers sit in front of laptops in singles or pairs, typing in computer code.
+With 10,000 members — half of them accessing iHub services online — this is the Africa that gets forgotten amid the headlines of war
+and famine, but it's an Africa that is applying the tools of the West with a particularly African sensibility.
+
+ "Whenever you put smart people in a room, they start talking, and so at iHub, we want to get innovative thinking, a spirit of
+ entrepreneurship going," says Jessica Colaco, manager of iHub. "We launched in June 2011, and now this is the physical nexus for the
+ tech community."
+
+ Fun and coffee aside, iHub is serious about fostering businesses, and seven new companies created at iHub have already been selected
+ (out of 100 candidates) as the first crop of graduates into a nearby business incubator called M-Lab. The M stands for mobile, and all
+       UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783655 Date: 10/30/2015
+       UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783655 Date: 10/30/2015
+
+
+
+
+seven of the new companies have created mobile-phone applications aimed at Kenyan consumers, everything from mobile-phone
+banking to health care to commodity prices for farmers. IHub has also paired up its member "hackers" with local aid groups to come
+up with mobile-phone applications for social problems like access to clean drinking water.
+
+"In three to five years, we want to stop talking about MPESA, because we want to have more innovation to showcase," says Ms.
+Colaco. "Ultimately, we need to stop looking just for the next killer application. Let's look at what is going to be the impact on the
+community, and what kinds of problem has this application solved. Has it brought down mortality rates. Has it brought the GNP of the
+country up? Has it created jobs?"
+
+
+Technology at African prices
+IHub is not alone. Across town, at the University of Nairobi's FabLab, professor Kamau Gachigi and his team of scientists are helping
+young engineering students and designers develop their inventions, test them, and take them to market. Some of the most creative
+ideas at FabLab are not technically inventions, but rather a re-engineering of existing technology for an African market, at African
+prices.
+
+One group of students, for instance, has started a company that supplies wireless broadband services to a middle class Nairobi suburb,
+beaming wireless signals throughout the neighborhood.
+
+"The idea we work with, modeled on MIT's FabLab idea, is first, how to make almost anything, and then how to make machines that
+can make almost anything," says Mr. Gachigi, showing off a prototype of the wood and chicken-wire transmission dish.
+
+Kenyans are early adapters of technology, a fact made clear by everything from MPESA's mobile-money transfers to the brilliant
+inventions of "jua kali" metal workers on Nairobi's side streets, says Gachigi. But the high price of Western-made machinery often
+puts technology out of the reach of common Kenyans, and that's where FabLab aims to make a difference. "By making the dishes
+themselves, these students can provide the service cheaper than these people could get it from outside."
+
+Charging a few shillings (a Kenyan shilling is worth about one cent) per SMS for iCow's services, or a few hundred shillings per
+month for a jerry-rigged wireless network may not seem, at first appearance, to be the way to make a typical African fortune. But on a
+continent with nearly a billion people, nearly half of whom have at least a basic form of technology in the form of a cell phone, small-
+scale low-cost technology solutions may become a huge area of growth for a large number of individual innovators.
+
+"If we can only do what I'm trying to do with iCow, riding on the back of technology, we can make a huge impact on ordinary
+people's lives," says Kahumbu.
+
+IN PICTURES: Monitor photographers in Africa
+
+Get daily or weekly updates from CSMonitor.com delivered to your inbox. Sign up today.
+
+© The Christian Science Monitor. All Rights Reserved. Terms under which this service is provided to you. Privacy Policy.
+
+
+
+
+       UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05783655 Date: 10/30/2015
+

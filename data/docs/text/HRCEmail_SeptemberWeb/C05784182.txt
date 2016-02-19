@@ -1,0 +1,83 @@
+       UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05784182 Date: 09/30/2015
+
+
+
+                                                                                                         RELEASE IN PART
+                                                                                                         B6
+
+
+
+From:                              postmaster@state.gov
+Sent:                              Sunday, May 8, 201110:20 AM
+To:
+Subject:                           Undeliverable: Unbelievable
+Attachments:                       details.txt; Unbelievable (1.50 KB); details.txt; Unbelievable (1.50 KB)
+
+
+
+Delivery has failed to these recipients or distribution lists:
+
+slaughtera@state.gov
+The recipient's e-mail address was not found in the recipient's e-mail system. Microsoft Exchange will not try to redeliver
+this message for you. Please check the e-mail address and try resending this message, or provide the following diagnostic
+text to your system administrator.
+
+
+
+
+Diagnostic information for administrators:
+
+Generating server: SA26WASHOCIBO1 .washdc.state.sbu
+
+slaughtera@state.gov
+#< #5.1.1> #SMTP#
+
+Original message headers:
+
+Received: from stimson2.state.gov ([10.253.208.133]) by
+ SA26WASHDCIB01.washdc.state.sbu with Microsoft SMTPSVC(6.0.3790.3959);                  Sun,
+ 8 May 2011 10:19:38 -0400
+Received: from mail.clintonemail.com (ool-18bbeabb.static.optonline.net [24.187.234.187])
+        by stimson2.state.gov with ESMTP id p48E8Dg0006314-p48EBDg2006314
+        (version=TLSvl cipher=AES128-SHA bits=128 verify=CAFAIL);
+        Sun, 8 May 2011 10:11:14 -0400
+Received: from CLNTINET08.clinton.local ([fe80::d0bb:23d3:f75e:4993]) by
+ CLNTINET08.clinton.local ([fe80::d0bb:23d3:f75e:4993%10]) with mapi; Sun, 8
+ May 2011 10:19:36 -0400
+From: H <HDR22@clintonemail.com>
+To: "cheryl.mills                                                Huma Abedin
+        <Huma@clintonemail.com>, "'williamsbarrett
+        <williamsbauett               Diane Reynolds
+          slaughtera@state.gov"    <slaughtera@state.gov>, "betsy.ebelingl
+                                      "'jilliscol
+          susiebuell                                        "mchaleja@state.gov
+        <mchaleja@state.gov>, "'oterom2@state.gov'" <oterom2@state.gov>
+CC: H <HDR22@clintonemail.com>
+Date: Sun, 8 May 2011 10:19:35 -0400
+Subject: Unbelievable
+Thread-Topic: Unbelievable
+Thread-Index: AcwNivUg/EpqsyThQoSh4yWXS1WF1g==
+Message-ID: <786762D781A7FF4FAC9060892840448818834E6AD1@CLNTINET08.clinton.local>
+Accept-Language: en-US
+Content-Language: en-US
+     UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05784182 Date: 09/30/2015
+     UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05784182 Date: 09/30/2015
+
+
+
+
+X-MS-Has-Attach:
+X-MS-TNEF-Correlator:
+accept language: en-US
+Content-Type: text/plain; charset="iso-8859-1"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+X-FEAS-SYSTEM-WL: hdr22@clintonemail.com
+Return-Path: HDR22@clintonemail.com
+X-OriginalArrivalTime: 08 May 2011 14:19:38.0221 (UTC) FILETIME=[F6AEF1D0:01CCOD8A]
+
+
+
+
+     UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05784182 Date: 09/30/2015
+

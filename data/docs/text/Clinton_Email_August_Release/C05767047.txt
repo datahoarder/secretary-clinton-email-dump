@@ -1,0 +1,119 @@
+        UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767047 Date: 08/31/2015
+
+
+
+                                                                                                        RELEASE IN FULL
+
+
+
+
+From:                                Mills, Cheryl D <MillsCD©state.gov>
+Sent:                                Wednesday, December 30, 2009 3:23 PM
+To:
+Subject                              FW: CNN piece on what's happening now in tech space in Tehran
+
+
+
+FYI — for you in your new tech role.
+
+
+From: Ross, Alec 3
+Sent: Wednesday, December 30, 2009 11:09 AM
+To: Mills, Cheryl D; Sullivan, Jacob 3
+Subject: CNN piece on what's happening now in tech space in Tehran
+
+http://edition.cnn.com/2009/TECH/12/30/iran.social.media/
+(CNN) — It was called the "Twitter Revolution" — the mass street protests following Iran's questionable June elections that were
+beamed to the world via social media and other online tools despite the government's media blackout.
+
+This week, a loose, multi-national network of protesters, bloggers, Web developers and everyday Internet users has ramped up
+again in the wake of renewed anti-government street demonstrations that turned deadly Sunday on Ashura, a Shiite Muslim holy
+day commemorating the death of 7th Century cleric Imam Hussein.
+This time, Internet analysists and online activists involved in the movement have told CNN that a government initially caught flat-
+footed at how easily information flowed out of the country was ready to fight back.
+"It's clear the government has been definitely restricting the Internet in a much more controlled way," said Cyrus Farivar, an
+Iranian-American freelance journalist who writes about technology issues. "They're definitely paying attention and, at the very
+least, trying to intimidate people."
+
+And retaliation has been brutal — both for those taking to the streets and those spreading the word online.
+One of the most compelling videos to emerge from the recent unrest showed what the people who posted it said was an Iranian
+government vehicle plowing into a crowd of protesters, apparently running over and, they say, killing a woman.
+
+Abbas Jafari Dolatabadi, Tehran's chief prosecutor, said Tuesday that seven people were killed in the Ashura riots. The
+demonstrations were the deadliest since June. Those left at least eight dead, according to Iran's Supreme National Security
+Council — although dissidents and observers have said there were many more.
+The world was able to learn about those protests through first-person accounts online after a disputed election that returned
+hard-line President Mahmoud Ahmadinejad to office despite serious questions about polling results.
+As protests swelled, Iran's government began kicking out some reporters from some traditional Western media outlets, arresting
+others and restricting the movements of those who remained.
+
+In their place sprung citizen journalists who posted videos, photos and firsthand accounts on Twitter feeds, Facebook groups
+and sites like Flickr and YouTube. They kept images of the protests -- and the sometimes bloody response of government
+backers — in front of the world.
+
+
+As early as election day, both opposition political leaders and anti-government protesters said cell-phone signals were being
+jammed. They consistently reported networking Web sites in Iran being blocked, phone lines disconnected and protest sites
+allegedly infiltrated by government spies who spread misinformation and sought the identities of those speaking against the
+regime.
+
+That experience, observers say, had the government primed for the most recent explosion of information.
+"The spike at the beginning, right after the election, was pretty chaotic,"said Austin Heap, a San Francisco-based Web
+developer who has helped Iranian dissidents report from within their country. "Not even their government knew what they were
+going to do and how they were going to handle things.
+
+        UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767047 Date: 08/31/2015
+       UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767047 Date: 08/31/2015
+
+
+
+
+"I think right now what you're seeing is a much more coordinated and organized response from them."
+Tech experts say the Iranian government has become more adept at using a type of Internet filtering called deep-packet
+inspection to track information sent from one Internet user to another and hunt down the sender.
+The government has also begun using the protest's own techniques against it. As early as June, online activists said they
+suspected government agents of posing as protesters in an attempt to pry information out of people within the movement. Some
+Twitter feeds of protesters suddenly and inexplicably began posting pro-government messages or asking for details about where
+and when protests would be held.
+
+
+Earlier this month, videos that appeared to show protesters burning an image of Supreme Leader Ayatollah Ali Khamenei
+circulated the Internet. Opposition leaders denied the burnings ever happened and said they were a hoax carried out by the
+government to discredit them and turn the Iranian public against their cause.
+"Fake clips, usually made to provoke and split the opposition, are becoming a staple of the Iranian Internet," Evgeny Morozov,
+who writes about the Internet for Foreign Policy magazine, wrote in a commentary for CNN.
+Austin Heap has helped set up and verify reliable proxies by which Iranians can post news to the Web without giving away their
+locations. He's also helping develop a program called Haystack designed to help Iranians anonymously elude government filters.
+
+'We definitely have been working on overload for the past three days," he said Tuesday. "I woke up two days ago to 60 e-mails
+and 12 missed phone calls — all people that, all of a sudden, needed an immediate response."
+The continued media blackout in Iran had made it difficult for traditional media to immediately verify Sunday's accounts of the
+weekend's violence. But videos that surfaced depicted bloodied and, in some cases, apparently dead protesters.
+
+A range of Web sites have either emerged or seen renewed interest in light of the recent protests. They run the gamut from
+YouTube accounts dedicated to images from street protests to blogs mocking the Iranian regime.
+At the blog Watch Me Confess, opponents of Iran's government post faux apologies for what they call ridiculous claims the
+government has made about the protesters.
+
+At Neda Net -- named for the young woman whose shooting death in June became a rallying cry for protesters -- people who
+call themselves a network of hackers offer tips on how to help Iranians use the Internet freely
+"There's this kind of global attention being paid across different countries and cultures and languages," said Farivar, who noted
+the emergence of a Twitter hashtag — #CN4Iran -- THAT appears to have been started by Chinese supporters of the Iranian
+protesters.
+
+Despite their best efforts and good intentions, supporters outside the country won't decide the outcome of the most recent round
+of protests, Farivar said. The actions of Iranians on the ground will.
+
+"I think it's naive to think that just because you're changing your location to Tehran [on a Twitter profile] that you're confusing the
+Iranian authorities," he said. "That would make them seem less intelligent than they are."
+But Heap said the steady flow of information will be important as a government that prefers secrecy continues a violent
+crackdown on its citizens.
+
+"They can't hide any more," he said. 'The government has done everything they can to shut people up, and every time they do
+this they're just making more and more activists -- more and more citizen journalists."
+
+
+
+
+       UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05767047 Date: 08/31/2015
+

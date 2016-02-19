@@ -1,0 +1,483 @@
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+                                                                                RELEASE IN FULL
+
+
+
+
+    Rethinking the Provision of Public Services in Post-Conflict States
+
+
+
+                                           Paul Collier
+
+
+
+
+                            Centre for the Study of African Economies,
+
+                                    Department of Economics,
+
+                                       University of Oxford
+
+
+
+                                         September 2009
+
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+   Introduction
+
+   The provision of basic social services is inherently difficult. Considerations of equity demand
+   that a minimum provision be available to all citizens regardless of ability to pay. But if provision
+   is through non-market mechanisms how are resources to be allocated and what are the incentives
+   for effort? There is no universally ideal organizational solution to these problems and approaches
+   differ considerably between countries.
+
+   African governments inherited a common model of public service provision from colonial times.
+   That model was rooted in how British and French governments were themselves providing
+   public services during the 1950s. For the following half-century African governments struggled
+   to make this model work. In many of them, and most particularly in those with the social stresses
+   associated with being post-conflict, that model has proved to be inappropriate. It is high time to
+   try delivery systems which are better suited to the local context.
+
+   The Inherited Model
+
+   The 1950s European model was for a government ministry to take responsibility for an entire
+   service, such as health or education. Such ministries combined the potentially distinct functions
+   of planning, resource allocation, on-the-ground service delivery, and evaluation. Further, they
+   held a national monopoly over the provision of the service.
+
+   African governments tended to assume that this was the appropriate way for a developed society
+   to deliver public services, so that it was the system to which they should aspire. In fact, in many
+   respects this organizational approach was not an encompassing model for a developed society,
+   but was rooted in its highly unusual time, namely the aftermath of the Second World War. One
+   legacy of the war was a belief in planning. In wartime Britain national planning had been
+   successful and it was now applied to the problem of service delivery. Delivering social services
+   through centralized planning requires information: the war had taught the civil service how to
+   gather and marshal it for military objectives and initially this worked well for service provision.
+   Another legacy of the war was a strong sense of nationhood and public-spiritedness. This spirit
+   resolved the problem of motivating public sector workers: they had internalized the norms of
+   serving the society and so did not need either close monitoring or large financial incentives. The
+   combination of information-guided central planning and a motivated workforce was highly cost-
+   effective.
+
+   In ideal conditions the European model of the 1950s is by far the most cost-effective system.
+   Both post-war Britain and modern Scandinavia met these conditions. Scandinavia combines a
+   self-motivated public sector workforce with a comprehensive system of centralized social
+   information. But these advantages are underpinned by an unusually homogenous population with
+   a strong sense of national identity and a belief in social equity. In Britain, neither aspect of the
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+   system proved to be sustainable. Gradually, the helpful norms of public sector workers eroded.
+   For example, after three decades British nurses abandoned their policy of not threatening to
+   strike. As service delivery became more complex, it became more information-intensive and so
+   less much more demanding for the command-and-control approach that had worked well for
+   military objectives. As conditions became less suited to the 1950s model it became unwieldy.
+   Ministries grew far beyond the size originally envisaged: for example, the National Health
+   Service became the largest employer in Europe. In response, reliance upon self-motivation
+   through internalized norms has gradually been replaced through ad hoc reforms by increasingly
+   detailed targets combined with high levels of pay. The system of central planning has been
+   partially replaced by resource allocation that is guided by simulated 'internal' markets.
+
+   Why the Inherited Model is often unsuited to Fragile States
+
+   Fragile states are far removed from the conditions in which the 1950s European model works
+   well. Public sector employees have long ceased to internalize the norms of public-spiritedness.
+   Further, social information is neither detailed nor up-to-date. Unfortunately, in the absence of
+   these conditions the model works extremely badly. Most workers are not self-motivated to serve
+   the public interest but the system lacks the means either to rebuild the norms of public service, or
+   to motivate workers with financial incentives.
+
+   Prevailing norms of public service
+
+   In the fragile states the prevailing norms of public sector workers are radically different from
+   those in Scandinavia. People are more heterogeneous and conflicted and so have a weaker sense
+   of the national public interest. Shirking, as instanced by high rates of absenteeism, is common, as
+   is minor corruption. Often the collapse in the norm of public service was due to the erosion in
+   salaries. If public sector workers are not paid enough to live then they have no choice but to
+   abuse their positions for personal gain. However, once the new norms of self-interest become
+   established they become very difficult to change: the new pattern of behaviour is an equilibrium
+   in which the conduct of each worker is rational given the expected conduct of other workers.
+   Prevailing dysfunctional norms are thereby collectively self-reinforcing. For example, many
+   public service jobs depend upon teams so that the return to individual effort depends upon that of
+   others. Individually each worker is locked into prevailing norms unless there is a credible reason
+   to believe that the norms of other workers have changed. Large and coordinated changes in
+   norms of work among staff are very difficult for management to achieve. Simply reversing the
+   salary decline is unlikely to restore the norms of public service. The more likely outcome is that
+   what was a badly performing but low-cost delivery system is replaced by a badly performing but
+   more expensive delivery system.
+
+   Dysfunctional norms are passed on between generations of public sector workers. By its nature
+   public service tends to attract young people with a degree of idealism. For example, survey
+   evidence from Ethiopia shows that newly trained nurses enter the profession with a strong sense
+
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+   of public spiritedness. However, once placed into clinics where the prevailing norm is self-
+   interest over the next three years their initial public-spiritedness is replaced by the dysfunctional
+   norms of their elders. Hence, the current model of service delivery is repeatedly destroying the
+   asset of self-motivation in the young workforce.
+
+   Limited Alternatives to Self-Motivation
+
+   Even if workers have not internalized the norms of the organization, it may nevertheless be
+   possible to motivate them to good performance by means of financial incentives. However, the
+   1950s European model is ill-suited to this approach. Being within the civil service, the range of
+   financial rewards and penalties that can be deployed is extremely limited. Virtually everywhere
+   civil servants have very strong job security so that the threat of dismissal is not credible.
+   Demotion is very rare and constrained by cumbersome systems of appeal. Hence, the only scope
+   for incentives is through rewards. Even here the civil service is heavily constrained by the need
+   for perceived equity among staff and pay scales that are tied to seniority, age, and rank. In post-
+   conflict conditions these generic problems of discretionary rewards and penalties for civil
+   servants are further complicated by the history of conflict. In the contest for control of the state,
+   public sector employment comes to be regarded not merely as an input into service delivery, but
+   as a valued prize in itself. This leaves a legacy of pervasive suspicions that discretionary rewards
+   reflect patronage and favour rather than performance. The post-conflict imperative of achieving
+   perceived equity in public employment between rival political factions may make performance-
+   related incentives infeasible.
+
+   Even where incentives are politically feasible, they can only be effective to the extent that they
+   can be linked to observable aspects of performance. Yet in post-conflict conditions the
+   information needed to assess performance on public service delivery is simply not being
+   generated. This is partly due to the larger problems endemic to post-conflict situations such as
+   broken local administrations. But it is also itself an instance of the incentive problem: if
+   prevailing performance is generally poor, civil servants have an incentive not to collect timely
+   evidence by which it could be measured. Yet the same information that would be needed to
+   measure performance would also be needed for overall resource allocation through central
+   planning to be effective. Starved of information, central planning is blind and an easy prey to
+   crude political pressures.
+
+   The consequence for service delivery
+
+   The result is that the same system which in Scandinavia produces the best and most cost-
+   effective social services on earth, in African post-conflict conditions produces the worst.
+   Workers are motivated neither by internalized norms of public service, nor by financial
+   incentives. Central planning without information inevitably grossly misallocates resources. As a
+   result services are inevitably very bad.
+
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+   Faced with a delivery system that is manifestly dysfunctional, donors starve it of finance. This
+   produces the very bad, but very inexpensive systems that prevail in the public sector in fragile
+   states. Without question, adequate social provision will require substantially more international
+   funding than has been provided to date. However, the root of the problem is not the lack of
+   funding, but the lack of a delivery system that could productively use enhanced funding.
+
+   Donor bypass of the state
+
+   Faced with the overwhelming case for responding to social needs, donors have usually resorted
+   to bypassing the state, channelling finance through NGOs and the UN agencies. This has
+   advantages and disadvantages.
+
+   Advantages of non-government provision
+
+   Unlike government provision, non-government provision is not a uniform model and there is
+   considerable variation. Two different approaches can both achieve good organizational
+   performance. One approach, typified by mission-run hospitals and schools, achieves good
+   performance by maintaining a high level of organizational commitment on the part of its
+   workers. Given the high intrinsic satisfaction from activities such as healing the sick and
+   teaching children, and the highly visible needs in post-conflict societies, it is possible to create
+   islands of self-motivation even where in the public sector norms of service have collapsed. The
+   other approach, typified by some for-profit organizations, achieves good performance by solving
+   the difficult problem of linking financial incentives to observable performance. In many aspects
+   of service delivery individual performance is not readily observable and so effective monitoring
+   is difficult. The two approaches are not easily combined and so tend to be alternatives. Norms of
+   self-motivation, or working for the common good, thrive on trust and equity among staff. In
+   contrast, the essence of addressing motivation by means of financial incentives is that trust is
+   replaced by monitoring, and equity is replaced by income differences based on differential
+   performance. Field evidence suggests that where strong financial incentives are introduced into
+   service delivery organizations norms of service and worker cohesion are undermined.
+
+   According to the type of service, the local context, and the personal characteristics of managers,
+   either approach can be more effective. However, while some non-government organizations
+   solve the service delivery problem by one or other of the above approaches, others fail. Some
+   rely upon trust but have unmotivated staff; others rely on financial incentives but monitor aspects
+   of behaviour which are not sufficiently related to performance. Hence, donors cannot tell simply
+   by observing the type of organization whether it is efficient. The implication is that by bypassing
+   the state donors will sometimes be financing organizations that are considerably more efficient,
+   but that there will be considerable variation.
+
+   Disadvantages of bypassing the state
+
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+   The most obvious drawback of donors bypassing the state is that, while unsustainable, it does not
+   lead to an exit strategy. The bypass of the state does not build state capacity and may further
+   undermine it. Yet it is acknowledged that the complete bypass cannot itself be the long-term
+   solution to service delivery. If the state is not involved in providing basic services to citizens it
+   will be very difficult for it to establish a claim to legitimacy in the eyes of its citizens.
+
+   The total bypass has a further serious drawback which donors are less willing to recognize: the
+   lack of coordination and continuity. The services funded by donors are usually localized and
+   often specific to a particular aspect of service delivery. Given this approach there is no
+   systematic scope for a nation-wide and sector-wide approach to resource allocation. Donor
+   financing of any particular service provider is likely to be temporary. Field staff are typically
+   rotated every three years and the priorities of individual donors change as ministers change.
+   Given the natural human inclination to make a difference, this is a recipe for continuous turmoil.
+
+   However, the most serious drawback is the lack of accountability to the ordinary people who are
+   the users of services. Generically, there are two mechanisms for such accountability: political
+   and commercial. By definition, as a result of the donor bypass of the state, political
+   accountability to users is not possible. The alternative of commercial accountability is dependent
+   upon donor financing of service providing agencies being conditional upon their observed
+   performance. However, other than for the most rudimentary aspects of performance, donors lack
+   the monitoring capacity with which to hold agencies to. account.
+
+   Public Service Authorities
+
+   An alternative to the 1950s model of the monopoly government ministry and the total bypass of
+   the state is to unbundle the functions that in the 1950s model are all performed by a single
+   ministry. Some of these functions are intrinsic to the responsibilities that a state should
+   undertake. For other functions the state can achieve its objectives better by purchasing the
+   function from other providers. Even in the most centralized and efficient of European states this
+   approach is now standard: for example, in France both blood-testing and ambulance services are
+   financed publicly but provided privately.
+
+   A Public Service Authority (PSA) is a design of public service delivery which may be
+   particularly appropriate for post-conflict conditions. It need not be merely a temporary measure:
+   it may evolve into a permanent organization much as Independent Revenue Authorities have
+   become permanent in many fragile states. Although all PSAs have some core features in
+   common, they can take many different forms. For example, at one extreme a single PSA could
+   have a national mandate for many different types of service, while at the other, each district
+   might have several PSAs, one for each type of service. Such choices should vary country-by-
+   country, according to local capacity. Here I focus on the core principles of a PSA rather than on
+   such choices.
+
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+   A PSA is a public agency: it is an implementing agency of government but is independent of the
+   civil service, analogous to central banks and revenue authorities. While it is an agency of
+   government, its board of directors can include a minority of non-government appointees. In post-
+   conflict conditions these should include the main donor agencies and key components of civil
+   society. The primary purpose of such representation is to provide equal and unrestricted access to
+   information on the decisions and performance of the PSA for government, donors and civil
+   society. As a result, a PSA is structurally transparent.
+
+   The government ministries responsible for service provision have representation on the board of
+   the PSA and set policy guidelines by which the PSA must operate. For example, they may set
+   minimum standards of provision, and require the PSA to allocate resources so as to ensure
+   geographic equity. Ministries will also continue to provide state services directly. Since in post-
+   conflict conditions service provision is invariably inadequate, the PSA should constitute an
+   expansion in provision not a change in the management of existing services. Over time, if the
+   PSA-provided services proved to be better value that those directly provided by the ministries
+   then it would be a matter for the government to decide whether to reorganize the directly
+   provided services.
+
+   A PSA receives funds from donors and government for the purchase of services from primary
+   providers. Since the PSA is an implementing agency of government, the money allocated to the
+   PSA, including that from donors, appears in the government budget as an expenditure. Hence,
+   donor funding of services through the PSA is somewhat analogous to ring-fenced budget
+   support.
+
+   The PSA enters into contracts with primary service providing agencies but does not provide
+   services directly. This avoids a conflict of interest and focuses the PSA exclusively on
+   negotiating and monitoring the performance of the primary providers. These providers can be
+   NG0s, local communities, local governments, or private for-profit organizations. Ideally, the
+   PSA will experiment with multiple channels of provision for the same service to maximize the
+   scope for variation in performance.
+
+   The PSA devotes most of its resources to monitoring performance and comparing it. The
+   evidence on comparative performance is provided to the board of the PSA on a regular basis.
+   The board uses this information to reallocate resources from less-efficient providers to more-
+   efficient providers.
+
+   The PSA can also experiment with distributing vouchers to households rather than money to
+   service providers. This reduces the need for monitoring of performance but introduces other
+   problems. To take a trivial example, in health care the prescription of glucose will produce a
+   short-term improvement in the patient without addressing the causes of the illness. Users can
+   easily misinterpret this effect as indicating that they need repeated treatment rather than different
+   treatment. Hence, in the absence of good ethical standards among practitioners in this instance
+
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+   vouchers could be dysfunctional. More generally, the balance of whether service providers are
+   more effectively monitored by professions or by users will vary according to type of service and
+   local context and is best determined by experiment.
+
+   Why a PSA should improve service delivery
+
+   A PSA is a design that is based on modern economic principles and the evidence from fieldwork
+   (see Bold, Collier and Zeitlin (2009) for a discussion of how a PSA fits with theory and
+   evidence). This does not guarantee that it is appropriate, but there are clear reasons to expect it to
+   work considerably better than either the 1950s model or the donor bypass.
+
+   Variation, competition and selection
+
+   A PSA builds in variation in approaches to service delivery: different providers will be
+   attempting to solve the problem worker motivation in different ways. Since the core function of
+   the PSA is to evaluate these different approaches it enables gradual improvement in overall
+   efficiency. The increase in efficiency comes about through two different mechanisms.
+
+   The most obvious is through the awareness of competition acting as a disciplining device on
+   providers. Through this mechanism, the performance of the typical service provider might be
+   expected to improve. However, this is probably not the most important.
+
+   The more important mechanism is that resources can gradually be reallocated from inefficient
+   providers to efficient providers. Since the variation in efficiency between different providers is
+   likely to be considerable, simply by reallocating money between them the PSA can raise the
+   efficiency of the average dollar spent on service provision. Note that this does not depend upon
+   any improvement in efficiency in each organization.
+
+   Branding
+
+   Unlike the donor bypass of the state, with a PSA donor money is routed through a state
+   organization. A condition of for a non-government service provider receiving money from the
+   PSA should be that the services delivered are co-branded by government. While the visibility of
+   donor operations is reduced, that of government is increased. Ordinary citizens are able to see
+   that the government is doing something that is beneficial.
+
+   Scaling up because of donor confidence
+
+   By design, the PSA generates information on the performance of the organizations that it funds,
+   and hence on its own performance. Since donors are represented on the management board of the
+   PSA they have full access to this information. Transparency of information for donors is crucial
+   in post-conflict conditions to enable donors to scale up financing beyond the immediate post-
+   conflict period. During the first few years donors give governments are the benefit of the doubt,
+   but this rapidly erodes. In its place governments need rapidly to build donor confidence. This
+
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+   cannot be done either by declarations or by comprehensive improvements in governance.
+   Declarations of good practice can be made equally well by those governments that have no
+   intention of adhering to them and so, despite a deceptively courteous reception, cut no ice with
+   donors. Comprehensive improvements in governance simply take too long to achieve to stave of
+   reductions in donor funding. A PSA provides a quick institutional solution to the problem of
+   building credibility with donors: transparency and design substitute for the lack of trust. As
+   quantitative evidence of performance builds up, the local offices of donor agencies are in a much
+   stronger position to press their headquarters for a larger share of the budget.
+
+
+
+   Centralized resource allocation
+
+   The PSA retains the key benefit of central planning: resource allocation can be coordinated
+   rather than being simply the aggregation of individual donor decisions. Further, since the PSA is
+   designed to generate information, the precondition for central planning to be effective is met.
+   However, while overall resource allocation is centrally determined, the incentive problem is not
+   micro-managed. The PSA does not attempt to motivate or monitor the workers who deliver
+   services. That task is decentralized to individual service providers to solve as best they can. The
+   PSA faces the less daunting task of monitoring the overall performance of each delivery
+   organization.
+
+    Motivating the PSA
+
+    The Board of the PSA faces the task of motivating the staff of the PSA. Why might this be any
+    easier than the task of motivating civil servants in the service delivery ministries? In part it is
+    easier because, being a new organization outside the civil service the PSA can start with higher
+    pay structures that are credibly linked to rewards and penalties. Recruits have some reason to
+    expect that the behaviour of their colleagues will not be the same as civil service behaviour.
+    Perhaps more importantly, the remit of the PSA is more narrowly defined than the remit of a
+    ministry. It is not trying to do everything from policy design to on-the-ground delivery of
+    services. It is allocating money between providers and evaluating their performance. Finally, it is
+    subject to day-to-day scrutiny by donors and civil society who as members of the management
+    board receive a continuous flow of information about the performance of managers.
+
+    How can a PSA be established?
+
+    A PSA does not need to start with a 'big bang'. It can start small, with one or two donors
+    cooperating with a particular government ministry to finance an expansion in the delivery of a
+    particular service. It should be viewed as an experiment in the architecture of public service
+    delivery. As an experiment it should be evaluated, but, by design, such evaluation is automatic. If
+    it succeeds it can be scaled up virtually without limit. Ultimately, the government might decide
+    that the PSA, or a series of PSAs, is the most cost-effective and politically effective way of
+
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+
+
+
+
+   delivering services for the society. If it fails then it can readily be closed: donors are used to
+   running projects which terminate. Nor is failure likely to have high costs. Unfortunately, in there
+   is currently no successful model of large scale service delivery in post-conflict conditions, so that
+   the opportunity cost of failure is likely to be modest.
+
+   Conclusion
+
+   Post-conflict societies have been attempting to deliver basic services using an inherited colonial
+   model that has little prospect of success in the context of their own societies. Given the acute
+   needs of their citizens, it is high time for governments to experiment with other designs. The key
+   desiderata are that a new system should be capable of being rapidly scaled up, while leading to
+   something that is politically sustainable. A PSA is not as good as the 1950s model when that
+   model is deployed in ideal conditions. However, based on theory and evidence, it is likely to be
+   more successful than the centralized ministerial approach in the conditions that actually prevail
+   in post-conflict societies. Given the enormous attention that post-conflict societies and other
+   fragile states are now rightly receiving, there is a strong case for experimenting with the PSA
+   design on a pilot basis.
+
+
+
+
+   Reference:
+
+   Tessa Bold, Paul Collier, and Andrew Zeitlin, 2009, Public Service Authorities, Centre for the
+   Study of African Economies, Oxford.
+
+
+
+
+UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05769411 Date: 08/31/2015
+

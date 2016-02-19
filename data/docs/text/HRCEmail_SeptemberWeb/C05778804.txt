@@ -1,0 +1,256 @@
+             UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+
+
+
+
+                                                                                                     RELEASE IN PART
+                                                                                                     B6
+
+    From:                                 McHale, Judith A <McHaleJA@state.gov>
+    Sent:                                 Wednesday, March 16, 2011 6:08 AM
+    To:
+    Subject:                              For your reading pleasure....
+
+
+
+    In case you need a brief distraction from all things Middle East, thought I'd pass along the following article from the
+    Guardian which I found fascinating if not a bit scary but then I guess that's the world in which we live. Enjoy.
+
+    im
+
+    SXSW 2011: The internet is over
+    Oliver Burkeman went to Texas to the South by Southwest festival of film,
+    music and technology, in search of the next big idea. After three days he
+    found it: the boundary between 'real life' and 'online' has disappeared
+•
+•
+
+
+
+
+•
+o   Oliver Burkeman
+o   The Guardian, Tuesday 15 March 2011
+
+
+
+O   Alarger I smaller
+
+o   Article history
+
+
+
+
+                                                                                     smartphone scan code at the SXSW
+    festival in Austin, Texas. Photograph: Elliot Smith for the Guardian
+
+
+             UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+
+
+
+
+If my grandchildren ever ask me where I was when I realised the interne was over — they won't, of course,
+because they'll be too busy playing with the teleportation console — I'll be able to be quite specific: I was in a
+Mexican restaurant opposite a cemetery in Austin, Texas, halfway through eating a taco. It was the end of day
+two of South by Southwest Interactive, the world's highest-profile gathering of geeks and the venture capitalists
+who love them, and I'd been pursuing a policy of asking those I met, perhaps a little too aggressively, what it
+was exactly that they did. What is "user experience", really? What the hell is "the gamification of healthcare"?
+Or "geofencing"? Or "design thinking"? Or "open source government"? What is "content strategy"? No, I mean,
+like, specifically?
+
+The content strategist across the table took a sip of his orange-coloured cocktail. He looked slightly exasperated.
+"Well, from one perspective, I guess," he said, "it's kind of everything."
+
+This, for outsiders, is the fundamental obstacle to understanding where technology culture is heading:
+increasingly, it's about everything. The vaguely intimidating twentysomethings who prowl the corridors of the
+Austin Convention Centre, juggling coffee cups, iPad 2s and the festival's 330-page schedule of events, are no •
+longer content with transforming that part of your life you spend at your computer, or even on your smartphone.
+This is not just grandiosity on their part. Rather — and this is a technological point, but also a philosophical one
+— they herald the final disappearance of the boundary between "life online" and "real life", between the physical
+and the virtual. It thus requires only a small (and hopefully permissible) amount of journalistic hyperbole to
+suggest that the days of "the internet" as an identifiably separate thing may be behind us. After a few hours at
+South by Southwest (SXSW), the 330-page programme in my bag started triggering shoulder aches, but to be
+honest it was a marvel of brevity: after all, the festival was pretty much about everything.
+
+We've been hearing about this moment in digital history since at least 1988, when the Xerox technologist Mark
+Weiser coined the term "ubiquitous computing", referring to the point at which devices and systems would
+become so numerous and pervasive that "technology recedes into the background of our lives". (To be fair,
+Weiser also called this "the age of calm technology", implying a serenity that the caffeinated, Twitter-distracted
+masses in Austin this week didn't seem yet to have attained.) And it's almost a decade since annoying tech-
+marketing types started using "mobile" as an abstract noun, referring to the end of computing as a desktop-only
+affair. But the arrival of the truly ubiquitous internet is something new, with implications both thrilling and
+sinister — and it has a way of rendering many of the questions we've been asking about technology in recent
+years almost meaningless. Did social media cause the recent Arab uprisings? Is the web distracting us from
+living? Are online friendships as rich as those offline? When the lines between reality and virtuality dissolve,
+both sides of such debates are left looking oddly anachronistic. Here, then, is a short tour of where we might be
+headed instead:
+
+
+Web 3.0
+"Big ideas are like locomotives," says Tim O'Reilly, a computer book publisher legendary among geeks,
+embarking on one of the grand metaphors to which the headline speakers at SXSW seem invariably prone.
+"They pull a train, and the train's gotta be going somewhere lots of people want to go." The big idea O'Reilly is
+touting is "sensor-driven collective intelligence", but since he coined the term "Web 2.0", he seems resigned to
+people labelling this new phase "Web 3.0". If Web 2.0 was the moment when the collaborative promise of the
+interne seemed finally to be realised — with ordinary users creating instead of just consuming, on sites from
+Flicicr to Facebook to Wikipedia — Web 3.0 is the moment they forget they're doing it. When the GPS system in
+your phone or iPad can relay your location to any site or device you like, when Facebook uses facial recognition
+on photographs posted there, when your financial transactions are tracked, and when the location of your car
+can influence a constantly changing, sensor-driven congestion-charging scheme, all in real time, something has
+qualitatively changed. You're still creating the web, but without the conscious need to do so. "Our phones and
+cameras are being turned into eyes and ears for applications," O'Reilly has written. "Motion and location
+
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+
+
+
+
+sensors tell where we are, what we're looking at, and how fast we're moving. . . Increasingly, the web is the
+world — everything and everyone in the world casts an 'information shadow', an aura of data, which when
+captured and processed intelligently, offers extraordinary opportunity and mindbending implications."
+
+Alarming ones, too, of course, if you don't know exactly what's being shared with whom. Walking past a bank
+of plasma screens in Austin that were sputtering out tweets from the festival, I saw the claim from Marissa
+Mayer, a Google vice-president, that credit card companies can predict with 98% accuracy, two years in
+advance, when a couple is going to divorce, based on spending patterns alone. She meant this to be reassuring:
+Google, she explained, didn't engage in such covert data-mining. (Deep inside, I admit, I wasn't reassured. But
+then Mayer probably already knew that.)
+
+
+The game layer
+Depending on your degree of immersion in the digital world, it's possible that you've never heard the term
+"gamification" or that you're already profoundly sick of it. From a linguistic point of view, the word should
+probably be outlawed — perhaps we could ban "webinar" at the same time? — but as a concept it was everywhere
+in Austin. Videogame designers, the logic goes, have become the modern world's leading experts on how to
+keep users excited, engaged and committed: the success of the games industry proves that, whatever your
+personal opinion of Grand Theft Auto or World of Warcraft. So why not apply that expertise to all those areas
+of life where we could use more engagement, commitment and fun: in education, say, or in civic life, or in
+hospitals? Three billion person-hours a week are spent gaming. Couldn't some of that energy be productively
+harnessed?
+
+This sounds plausible until you start to demand details, whereupon it becomes extraordinarily hard to grasp
+what this might actually mean. The current public face of gamification is Jane McGonigal, author of the new
+book Reality Is Broken: Why Games Make Us Better And How They Can Change The World, but many of her
+prescriptions are cringe-inducing: they seem to involve redefining aid projects in Africa as "superhero
+missions", or telling hospital patients to think of their recovery from illness as a "multiplayer game". Hearing
+how McGonigal speeded her recovery from a serious head injury by inventing a "superhero-themed game"
+called SuperBetter, based on Buffy the Vampire Slayer, in which her family and friends were players helping
+her back to health, I'm apparently supposed to feel inspired. Instead I feel embarrassed and a little sad: if I'm
+ever in that situation, I hope I won't need to invent a game to persuade my family to care.
+
+A different reaction results from watching a manic presentation by Seth Priebatsch, the 22-year-old Princeton
+dropout who is this year's leading victim of what the New York Times has labelled "Next Zuckerberg
+Syndrome", the quest to identify and invest in tomorrow's equivalent of the billionaire Facebook founder.
+Priebatsch's declared aim is to "build a game layer on top of the world" — which at first seems simply to mean
+that we should all use SCVNGR, his location-based gaming platform that allows users to compete to win
+rewards at restaurants, bars and cinemas on their smartphones. (You can practically hear the marketers in the
+room start to salivate when he mentions this.)
+
+But Priebatsch's ideas run deeper than that, whatever the impression conveyed by his bright orange polo shirt,
+his bright orange-framed sunglasses, and his tendency to bounce around the stage like a wind-up children's toy.
+His take on the education system, for example, is that it is a badly designed game: students compete for good
+grades, but lose motivation when they fail. A good game, by contrast, never makes you feel like you've failed:
+you just progress more slowly. Instead of giving bad students an F, why not start all pupils with zero points and
+have them strive for the high score? This kind of insight isn't unique to the world of videogames: these are basic
+insights into human psychology and the role of incentives, recently repopularised in books such as
+Freakonomics and Nudge. But that fact, in itself, may be a symptom of the vanishing distinction between online
+and off— and it certainly doesn't make it wrong.
+
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+
+
+
+
+The dictator's dilemma
+
+Not long ago, according to the new-media guru Clay Shirky, the Sudanese government set up a Facebook page
+calling for a protest against the Sudanese government, naming a specific time and place — then simply arrested
+those who showed up. It was proof, Shirky argues, that social media can't be revolutionary on its own. "The
+reason that worked is that nobody knew anybody else," he says. "They thought Facebook itself was
+trustworthy." This is one of many counterintuitive impacts that the internet has wrought on the politics of
+protest. But perhaps the most powerful is the one that Shirky — himself a prominent evangelist for the
+democratic power of services such as Twitter and Facebook — labels "the dictator's dilemma".
+
+Authoritarian leaders and protesters alike can exploit the power of the interne, Shirky concedes. (At least he
+notes the risks: in another session at the conference, I watch dumbstruck as a consultant on cyber-crimefighting
+speaks with undisguised joy about how much information the police could glean from Facebook, in order to
+infiltrate communities where criminals might lurk. Asked about privacy concerns, she replies: "Yeah — we'll
+have to keep an eye on that.") But there's a crucial asymmetry, Shirky goes on. The internet is now such a
+pervasive part of so many people's lives that blocking certain sites, or simply turning the whole thing off— as
+leaders in Bahrain, Egypt and elsewhere have recently tried to do — can backfire completely, angering protesters
+further and, from a dictator's point of view, making matters worse. "The end state of connectivity," he argues,
+"is that it provides citizens with increased power."
+
+The road to that end state won't be smooth. But the compensatory efforts of the authorities to harness the
+interne for their own ends will never fully compensate. Either they must allow dissenters to organise online, or
+— by cutting off a resource that's crucial to their daily lives — provoke them to greater fury.
+
+
+Biomimicry comes of age
+
+The search engine AskNature describes itself as "the world's first digital library of Nature's solutions", and to
+visit it is to experience the curious, rather disorienting sensation of Googling the physical universe. Ask it some
+basic question — how to keep warm, say, or float in water, or walk on unstable ground — and it will search its
+library for solutions to the problem that nature has already found. The idea of "biomimicry" is certainly not
+new: for much of the past decade, the notion of borrowing engineering solutions from the natural world has
+inspired architects, industrial designers and others. Austin is abuzz with examples. "Nissan, right now, is
+developing swarming cars based on the movements of schooling fish," says Chris Allen of the Biomimicry
+Institute. Fish follow ultra-simple mathematical rules, he explains, to ensure that they never collide with each
+other when swimming in groups. Borrow that algorithm for navigating cars and a new solution to congestion
+and road accidents presents itself: what if, in heavy traffic, auto-navigated cars could be programmed to avoid
+each other while continuing forwards as efficiently as possible?
+
+The Bank of England, he adds, is currently consulting biologists to explore ways in which organic immune
+systems might inspire reforms to the financial system to render it immune to devastating crises. "And what
+we're looking for now," Allen says cryptically, "is an interactive technology inspired by snakes."
+
+
+'We are meant to pulse'
+
+Until recently, the debate over "digital distraction" has been one of vested interests: authors nostalgic for the
+days of quiet book-reading have bemoaned it, while technology zealots have dismissed it. But the fusion of the
+virtual world with the real one exposes both sides of this argument as insufficient, and suggests a simpler
+answer: the interne is distracting if it stops you from doing what you really want to be doing; if it doesn't, it
+      UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+        UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+
+
+
+
+isn't. Similarly, warnings about "intemet addiction" used to sound like grandparental cautions against the evils
+of rock music; scoffing at the very notion was a point of pride for those who identified themselves with the
+future. But you can develop a problematic addiction to anything: there's no reason to exclude the interne, and
+many real geeks in Austin (as opposed to the new-media gurus who claim to speak for them) readily concede
+they know sufferers. One of the most popular talks at the conference, touching on these subjects, bore the title
+Why Everything Is Amazing And Nobody Is Happy.
+
+A related danger of the merging of online and offline life, says business thinker Tony Schwartz, is that we come
+to treat ourselves, in subtle ways, like computers. We drive ourselves to cope with ever-increasing workloads by
+working longer hours, sucking down coffee and spurning recuperation. But "we were not meant to operate as
+computers do," Schwartz says. "We are meant to pulse." When it comes to managing our own energy, he insists,
+we must replace a linear perspective with a cyclical one: "We live by the myth that the best way to get more
+work done is to work longer hours." Schwartz cites research suggesting that we should work in periods of no
+greater than 90 minutes before seeking rest. Whatever you might have been led to imagine by the seeping of
+digital culture into every aspect of daily life — and at times this week in Austin it was easy to forget this — you
+are not, ultimately, a computer.
+
+
+
+Daniel Kimmage
+Group Director for Digital Presence
+Center for Strategic Counterterrorism Communications (CSCC)
+U.S. Department of State
+2200 C Street, NW I Washington, DC 20522-0505
+kimmaged@state.gov
+
+(Contractor with Global Solutions Network)
+
+
+
+
+        UNCLASSIFIED U.S. Department of State Case No. F-2014-20439 Doc No. C05778804 Date: 09/30/2015
+
