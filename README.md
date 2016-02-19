@@ -41,7 +41,6 @@ Here's what happens:
 - If the zip file doesn't exist locally, it is downloaded.
 - Every zip file is unpacked into its own separate directory of pdfs.
 - Each PDF is processed via __pdftotext__ (from the Poppler library), and the raw text (which is embedded in each PDF by the State Department's optical-character-recognition software) is extracted into its own text file.
-find ./data/docs/text/ -name "**/*.txt" -print0 | xargs
 
 
 # Searching the Clinton emails
