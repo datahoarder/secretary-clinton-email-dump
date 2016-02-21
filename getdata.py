@@ -87,10 +87,12 @@ def extract_texts():
                              stdout=subprocess.PIPE)
         txt = xp.stdout.decode('utf-8')
         txtname = join(tsubdir, splitext(pname)[0]) + '.txt'
-        with open(txtname, 'w') as tf:
-            tf.write(txt)
-            print(bx("Extracted"), len(txt), "chars to:", txtname)
-
+        if not exists(txtname):
+            with open(txtname, 'w') as tf:
+                tf.write(txt)
+                print(bx("Extracted"), len(txt), "chars to:", txtname)
+        else:
+            print(bx("Skipping pdftotext:"), txtname)
 
 
 if __name__ == "__main__":
