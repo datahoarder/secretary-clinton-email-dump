@@ -2,6 +2,10 @@
 
 The Wall Street Journal has done an excellent service by downloading the individual email files from the State Department's listing and making them [accessible via their own search app](http://graphics.wsj.com/hillary-clinton-email-documents/). Even better, they've packaged the emails in convenient zip files.
 
+__Note:__ The WSJ has also published the code the use to do the scrape at their own Github repo:
+
+[https://github.com/wsjdata/clinton-email-cruncher](https://github.com/wsjdata/clinton-email-cruncher)
+
 Why do you need your own copies of the emails when the[ WSJ's application works so well](http://graphics.wsj.com/hillary-clinton-email-documents/)? It's a great tool, but it's still not as flexible as using regular expressions, which allow us to search by _pattern_, including:
 
 - Look for all instances in which a `$` is followed by numbers (to quickly locate places where money is mentioned)
