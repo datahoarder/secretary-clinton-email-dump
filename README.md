@@ -428,3 +428,10 @@ Here's the output:
   34 http://coloradoindependent.com
 ```
 
+
+And of course, nothing wrong with plucking out a few results from a previous query to check out some tangents, such as, what exactly were they using Wikipedia or New York Times' topics pages as references?
+
+~~~sh
+$ ag --noheading --nofilename \
+   -i 'wikipedia.org|topics.nytimes.com' data/docs/text/
+~~~
