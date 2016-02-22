@@ -292,6 +292,37 @@ As you can see, the OCR quality wasn't perfect...but there are ways -- with a li
 ~~~
 
 
+## Quickie subjects
+
+You know how when shooting a quick email you're sometimes too lazy to use proper capitalization or punctuation? Sometimes that happens even to the Secretary of State and her circle:
+
+~~~sh
+$ ag '^Subject: [a-z0-9 ]+.?$'  data/docs/text/
+~~~
+
+Of course, there's a ton of false negatives, but it's just a quickie search:
+
+~~~
+
+data/docs/text/HRCEmail_NovWeb/C05794317.txt
+25:Subject: salsa excursion
+
+data/docs/text/HRCEmail_NovWeb/C05794358.txt
+9:Subject: help
+
+data/docs/text/HRCEmail_NovWeb/C05794365.txt
+24:Subject: hey
+
+data/docs/text/HRCEmail_NovWeb/C05794372.txt
+442:Subject: help
+
+data/docs/text/HRCEmail_NovWeb/C05794378.txt
+39:Subject: more on libya
+
+data/docs/text/HRCEmail_NovWeb/C05794388.txt
+24:Subject: are you in dc or ny?
+~~~
+
 
 ### Net speak
 
