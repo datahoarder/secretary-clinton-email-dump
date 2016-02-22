@@ -297,7 +297,11 @@ As you can see, the OCR quality wasn't perfect...but there are ways -- with a li
 
 A little regular expression knowledge can help refine the most vaguest of searches. For example, people these days like to use abbreviations for normal words, such as `r u` instead of `are you`. Or sometimes, `u?` and/or `y?`. Looking for such informal phrases of communication can be a great filter when cutting through mostly boring emails.
 
-With normal text search, it's very difficult to disambiguate "__u__?" -- i.e. _find all occurrences of the letter "u" followed by a question mark_ -- from "Do you prefer Ubunt__u__?"
+With normal text search, it's very difficult to disambiguate "__u__?" -- i.e. 
+
+- Find all occurrences of the letter "u" followed by a question mark 
+ 
+-- from "Do you prefer Ubunt<strong>u</strong>?"
 
 The following grep looks for the solitary letter "r" followed by one-or-more white spaces, and then the solitary letter "u", case insensitive:
 
