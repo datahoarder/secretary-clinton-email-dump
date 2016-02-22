@@ -398,9 +398,9 @@ Or maybe you're curious about the __domains__...because you want to find out whi
 $ ag -io 'https?://.+?(?=/)' data/docs/text/
 ~~~
 
-### Top 20 web domains visited by Secretary Clinton's email friends
+### Top 20 web domains most mentioned by Secretary Clinton's email friends
 
-And here's how to get a tally of top 20 most visited web domains:
+And here's how to get a tally of top 20 most mentioned web domains:
 
 ~~~sh
 $ ag --noheading --nofilename \
@@ -431,6 +431,8 @@ Here's the output:
   34 http://maxblumenthal.com
   34 http://coloradoindependent.com
 ```
+
+Note that some of these are repeats within the same email, or forward-chains, such as [coloradoindependent.com](https://github.com/datahoarder/secretary-clinton-email-dump/search?utf8=%E2%9C%93&q=coloradoindependent)
 
 
 And of course, nothing wrong with plucking out a few results from a previous query to check out some tangents, such as, what exactly were they using Wikipedia or New York Times' topics pages as references?
