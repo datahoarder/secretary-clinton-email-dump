@@ -323,6 +323,15 @@ data/docs/text/HRCEmail_NovWeb/C05794388.txt
 24:Subject: are you in dc or ny?
 ~~~
 
+## Late night/early morning emails
+
+This is getting pretty ugly without programming, but still, it kind of works:
+
+~~~sh
+ag '^Sent: (.+?)(((0| )8|11):\d\d *PM|(0| )[0-6]:\d\d *AM)'  data/docs/text/
+~~~
+
+
 
 ### Net speak
 
