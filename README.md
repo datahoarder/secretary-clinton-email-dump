@@ -290,3 +290,141 @@ As you can see, the OCR quality wasn't perfect...but there are ways -- with a li
    1 1i
    1 1
 ~~~
+
+
+
+### Net speak
+
+A little regular expression knowledge can help refine the most vaguest of searches. For example, people these days like to use abbreviations for normal words, such as `r u` instead of `are you`. Or sometimes, `u?` and/or `y?`. Looking for such informal phrases of communication can be a great filter when cutting through mostly boring emails.
+
+With normal text search, it's very difficult to disambiguate "__u__?" -- i.e. _find all occurrences of the letter "u" followed by a question mark_ -- from "Do you prefer Ubunt__u__?"
+
+The following grep looks for the solitary letter "r" followed by one-or-more white spaces, and then the solitary letter "u", case insensitive:
+
+~~~sh
+$ ag -i '\br +u\b' data/docs/text
+~~~
+
+Just a few messages, but they seem fun:
+
+~~~
+data/docs/text/Clinton_Email_August_Release/C05767696.txt
+35:about that. But regardless, means ur email must be back! R u getting other messages?
+
+data/docs/text/Clinton_Email_August_Release/C05770301.txt
+1726: R             Under Secretary of State for Public Diplomacy and Public Affairs
+
+data/docs/text/Clinton_Email_August_Release/C05773787.txt
+11:Subject:                     R u up? He's done and wondering u r up.
+
+data/docs/text/Clinton_Email_August_Release/C05774251.txt
+27:about that. But regardless, means ur email must be back! R u getting other messages?
+
+data/docs/text/HRCEmail_Feb13thWeb/C05791277.txt
+21:Cc: Pittman, H Dean; Holt, Victoria                K (USUN); Fine     Tressa R USUN); Ried, Curtis R (USUN); 'Hajjar
+
+data/docs/text/HRCEmail_NovWeb/C05798177.txt
+16:What a terrific time. Thanks so much for including me. Loved the. Toast- the downton abbey schtick( am a fan. R U
+
+data/docs/text/HRCEmail_OctWeb/C05791376.txt
+26:that R understands that some wounded and children are getting out. I told him bluntly that's not what we understood.
+~~~
+
+
+#### Negative lookahead in the wild!
+
+The following regex looks for the letter "u" followed by a literal question mark which is _not_ followed by another alphabetical character -- a rare real-life chance to practice [the negative-lookahead syntax](http://www.regular-expressions.info/lookaround.html), e.g. `(?!\w)`:
+
+~~~sh
+$ ag -i '\bu\?(?!\w)' data/docs/text/
+~~~
+
+These all look fun:
+
+~~~
+data/docs/text/HRCEmail_DecWeb/C05785917.txt
+75:I haven't heard anything more from dod today...have u?
+
+data/docs/text/HRCEmail_DecWeb/C05785919.txt
+92:I haven't heard anything more from dod today...have u?
+
+data/docs/text/HRCEmail_Jan29thWeb/C05781152.txt
+39:U never sleep do u?
+
+data/docs/text/HRCEmail_JulyWeb/C05764209.txt
+13:Subject:                     Can I call u?
+
+data/docs/text/HRCEmail_JuneWeb/C05760041.txt
+12:Subject:                      Re: Can I call u?
+22:Subject: Can I call u?
+~~~
+
+What happens when you leave out the negative lookahead? 
+
+~~~sh
+$ ag -i '\bu\?' data/docs/text/
+~~~
+
+A minor inconvenience in the form of a few extra non-useful matches, as several URL query strings are captured _without_ a negative lookahead:
+
+~~~
+data/docs/text/HRCEmail_NovWeb/C05774838.txt
+430:maeci.gc.ca/u?id=1001455.35479660e507911ad0ede9335212fa35&n=T&1=001 foreign affairs eng&o=32902
+
+data/docs/text/HRCEmail_SeptemberWeb/C05778574.txt
+112:   <http://whatcounts.com/u?id=COD97B57DCF68E4CFC5E233FC1C79406A60E1DDBDO1ECB9D> .
+
+data/docs/text/HRCEmail_SeptemberWeb/C05782700.txt
+87:  http://email.foxnews.com/u?id=63BA7452E6F05FA312628179BBC2EB01
+91:  http://email.foxnews.com/u?id=63BA7452E6F05FA312628179BBC2EBO1&global=1
+~~~
+
+
+### URL matching
+
+Maybe you're interested in the types of websites Secretary Clinton and her email friends forward each other? Here's a probably not totally accurate regex pattern for that:
+
+~~~sh
+$ ag -io 'https?://.+?\s' data/docs/text/
+~~~
+
+Or maybe you're curious about the __domains__...because you want to find out which websites, in general, are the most frequented by Secretary Clinton's network. Again, a bit sloppy, but one that we can refine if needed:
+
+~~~sh
+$ ag -io 'https?://.+?(?=/)' data/docs/text/
+~~~
+
+### Top 20 web domains visited by Secretary Clinton's email friends
+
+And here's how to get a tally of top 20 most visited web domains:
+
+~~~sh
+$ ag --noheading --nofilename \
+     -io 'https?://.+?(?=/)' data/docs/text/ \
+     | sort | uniq -c | sort -rn | head -n 20
+~~~
+
+Here's the output:
+
+```
+ 371 http://www.guardian.co.uk
+ 142 http://www.amazon.com
+ 125 http://www.nytimes.com
+ 121 http://en.wikipedia.org
+  99 http://www.washingtonpost.com
+  86 http://topics.nytimes.com
+  82 http://www.facebook.com
+  79 http://www.huffingtonpost.com
+  70 http://www.messagelabs.com
+  66 http://www.ft.com
+  65 http://www.state.gov
+  54 http://www.thedailybeast.com
+  53 http://twitter.com
+  45 http://www.youtube.com
+  41 http://www.newyorkercom
+  34 http://www.newyorker.com
+  34 http://www.evite.com
+  34 http://maxblumenthal.com
+  34 http://coloradoindependent.com
+```
+
