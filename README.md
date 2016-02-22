@@ -331,6 +331,37 @@ This is getting pretty ugly without programming, but still, it kind of works:
 ag '^Sent: (.+?)(((0| )8|11):\d\d *PM|(0| )[0-6]:\d\d *AM)'  data/docs/text/
 ~~~
 
+### Overemotive expressions
+
+Sometimes people like to use multiple consecutive exclamation or question marks, or both, to indicate strong emotions. Also, such punctuation is not usually part of a formal article, so finding these occurrence may help filter for "real" messages:
+
+~~~sh
+$ ag -i '[a-z]+[?|]{2,}' data/docs/text
+~~~
+
+Some of the sample matches:
+
+~~~
+data/docs/text/HRCEmail_NovWeb/C05794489.txt
+38:Friday's schedule and try to remind me???
+
+data/docs/text/HRCEmail_NovWeb/C05794646.txt
+17:Wonder why they didn't hand me their letter??
+
+data/docs/text/HRCEmail_NovWeb/C05794734.txt
+17:What were you doing at the Kennedy Center w Ambos, Philippe and Rosemarie??? I'm very confused!
+
+data/docs/text/HRCEmail_NovWeb/C05795016.txt
+49:Is nothing sacred??
+
+data/docs/text/HRCEmail_NovWeb/C05795120.txt
+16:WHAT??? Or, more to the point, WTF??
+
+data/docs/text/HRCEmail_NovWeb/C05795739.txt
+17:Van I see the pashminas??
+
+
+~~~
 
 
 ### Net speak
